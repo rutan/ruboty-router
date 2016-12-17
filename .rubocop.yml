@@ -1,0 +1,22 @@
+AllCops:
+  Exclude:
+    - tmp/**/*
+    - vendor/**/*
+
+AsciiComments:
+  Enabled: false
+Documentation:
+  Enabled: false
+DoubleNegation:
+  Enabled: false
+Lambda:
+  Enabled: false
+RegexpLiteral:
+  Enabled: false
+LineLength:
+  Max: 120
+MethodLength:
+  Enabled: false
+MultilineBlockChain:
+  Enabled: false
+

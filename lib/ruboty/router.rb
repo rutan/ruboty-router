@@ -1,0 +1,7 @@
+require 'ruboty'
+require 'ruboty/router/version'
+require 'ruboty/router/action'
+require 'ruboty/router/server'
+require 'ruboty/router/monkey_patch'
+require 'ruboty/handlers/router'
+require 'ruboty/handlers/router_sample'
